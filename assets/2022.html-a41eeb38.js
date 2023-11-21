@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1521207b","path":"/aktuelles/2022.html","title":"2022","lang":"de-DE","frontmatter":{"title":2022,"heroText":2022,"tagline":null},"headers":[{"level":2,"title":"NovaCon 2022","slug":"novacon-2022","link":"#novacon-2022","children":[]}],"git":{"updatedTime":1700601285000},"filePathRelative":"aktuelles/2022.md"}');export{e as data};
